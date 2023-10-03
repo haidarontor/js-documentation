@@ -5,7 +5,7 @@
   -Added try/catch  
   -Added switch  
   -Added do-while
- <h1>ES5	ECMAScript 5 (2009)</h1>
+ ES5	ECMAScript 5 (2009) 
   Added "strict mode"
   Added JSON support
   Added String.trim()
