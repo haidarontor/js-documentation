@@ -14,6 +14,7 @@
   - Added Array iteration methods
   - Allows trailing commas for object literals
 
+
 ES6	ECMAScript 2015
 
   -The let keyword
