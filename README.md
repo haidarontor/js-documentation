@@ -16,9 +16,7 @@
 
 
 ES6	ECMAScript 2015
-  - Added Array.isArray()
-  - Added Array iteration methods
-  - Allows trailing commas for object literals
+ 
   -The let keyword
   -The const keyword
   -Arrow Functions
